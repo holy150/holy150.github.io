@@ -1,0 +1,16 @@
+h1 {
+    background-color: rgba(205, 173, 93, 0.811);
+    text-align: center;
+}
+
+.holy150-gif {
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left: 25%
+
+}
+
+figcaption {
+    text-align: center;
+}
